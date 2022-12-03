@@ -1,4 +1,4 @@
-# Aaron_Godfrey_Portfolio
+# Aaron Godfrey Portfolio
 Data Science student at Arizona State University
 
 # [Project 1: Weather Prediction Methods](https://github.com/ap4godfrey227/Machine-Learning-Project-1.git)
