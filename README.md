@@ -7,6 +7,9 @@ Data Science student at Arizona State University
 * Prioritized the optimization of specific statistical values in order to achieve the more important contextual outcomes
 * Efficiently managed over 250,000 observations with 22 variables per observation in a timely manner
 
+![](/images/DiabetesLRImages.PNG)
+![](/images/DiabetesRFImages.PNG)
+
 
 # [Project 2: Weather Prediction Methods](https://github.com/ap4godfrey227/Machine-Learning-Project-1.git)
 * Developed multiple methods to try and predict the weather of Phoenix, Arizona based on 30 years of daily weather data.
