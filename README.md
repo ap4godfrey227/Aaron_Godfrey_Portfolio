@@ -2,6 +2,8 @@
 Data Science, BS
 \
 Arizona State University Alumnus
+\
+[LinkedIn](https://www.linkedin.com/in/aaron-godfrey-02a384213/)
 
 # [Project 1: Anticipating Diabetes](https://github.com/ap4godfrey227/PredictingDiabetes.git)
 * Compared the effectiveness of different supervised learning techniques: Random Forest vs Logistic Regression
